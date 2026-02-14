@@ -1,0 +1,21 @@
+{
+    "name": "GuraRil VPM Repository",
+    "id": "com.guraril.vpm",
+    "author": "guraril",
+    "url": "https://vpm.guraril.com/repository.json",
+    "packages": {
+        "com.guraril.mocheek": {
+            "versions": {
+                "0.1.0": {
+                    "name": "com.guraril.mocheek",
+                    "version": "0.1.0",
+                    "displayName": "MoCheek",
+                    "description": "MoCheek(もちーく): もちもちほっぺジェネレーター",
+                    "unity": "2022.3",
+                    "license": "MIT",
+                    "url": "https://github.com/karikari-sembey/mocheek/releases/download/v0.1.0/com.guraril.mocheek-v0.1.0.zip"
+                }
+            }
+        }
+    }
+}
