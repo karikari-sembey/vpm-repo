@@ -17,7 +17,8 @@
                     "vpmDependencies" : {
                         "com.vrchat.avatars": ">=3.9.0 <3.11.0",
                         "nadena.dev.ndmf": ">= 1.9.4"
-                    }
+                    },
+                    "yanked": true
                 },
                 "0.1.1": {
                     "name": "com.guraril.mocheek",
@@ -27,6 +28,20 @@
                     "unity": "2022.3",
                     "license": "MIT",
                     "url":"https://github.com/karikari-sembey/mocheek/releases/download/v0.1.1/com.guraril.mocheek-v0.1.1.zip",
+                    "vpmDependencies" : {
+                        "com.vrchat.avatars": ">=3.9.0 <3.11.0",
+                        "nadena.dev.ndmf": ">= 1.9.4"
+                    },
+                    "yanked": true
+                },
+                "0.1.2": {
+                    "name": "com.guraril.mocheek",
+                    "version": "0.1.2",
+                    "displayName": "MoCheek",
+                    "description":"MoCheek(もちーく): もちもちほっぺジェネレーター",
+                    "unity": "2022.3",
+                    "license": "MIT",
+                    "url":"https://github.com/karikari-sembey/mocheek/releases/download/v0.1.2/com.guraril.mocheek-v0.1.2.zip",
                     "vpmDependencies" : {
                         "com.vrchat.avatars": ">=3.9.0 <3.11.0",
                         "nadena.dev.ndmf": ">= 1.9.4"
