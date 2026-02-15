@@ -13,7 +13,11 @@
                     "description": "MoCheek(もちーく): もちもちほっぺジェネレーター",
                     "unity": "2022.3",
                     "license": "MIT",
-                    "url": "https://github.com/karikari-sembey/mocheek/releases/download/v0.1.0/com.guraril.mocheek-v0.1.0.zip"
+                    "url": "https://github.com/karikari-sembey/mocheek/releases/download/v0.1.0/com.guraril.mocheek-v0.1.0.zip",
+                    "vpmDependencies" : {
+                        "com.vrchat.avatars": ">=3.9.0 <3.11.0",
+                        "nadena.dev.ndmf": ">= 1.9.4"
+                    }
                 },
                 "0.1.1": {
                     "name": "com.guraril.mocheek",
@@ -22,7 +26,11 @@
                     "description":"MoCheek(もちーく): もちもちほっぺジェネレーター",
                     "unity": "2022.3",
                     "license": "MIT",
-                    "url":"https://github.com/karikari-sembey/mocheek/releases/download/v0.1.1/com.guraril.mocheek-v0.1.1.zip"
+                    "url":"https://github.com/karikari-sembey/mocheek/releases/download/v0.1.1/com.guraril.mocheek-v0.1.1.zip",
+                    "vpmDependencies" : {
+                        "com.vrchat.avatars": ">=3.9.0 <3.11.0",
+                        "nadena.dev.ndmf": ">= 1.9.4"
+                    }
                 }
             }
         }
